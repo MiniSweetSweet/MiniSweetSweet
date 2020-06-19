@@ -1,0 +1,352 @@
+/**
+ * 技术信息：资源信息
+ * 请参考: https://bazhan.me/faq
+*/
+{
+    "success": [
+        {
+            "url": "http://www.nanogress.com/product_list/14.html",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "http://www.nanogress.com/upload/product/201804/27/201804271740064953.jpg",
+                    "path": "images/201804271740064953.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/site/201804/18/201804182140281576.png",
+                    "path": "images/201804182140281576.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/img/ewm/NANOGRESS-WECHAT.png",
+                    "path": "images/NANOGRESS-WECHAT.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/img/icon/icon7.png",
+                    "path": "images/icon7.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/product/201804/27/201804271739491828.jpg",
+                    "path": "images/201804271739491828.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/product/202005/07/202005071708265296.jpg",
+                    "path": "images/202005071708265296.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/product/202005/07/202005071753457840.jpg",
+                    "path": "images/202005071753457840.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/product/202005/07/202005071803041711.jpg",
+                    "path": "images/202005071803041711.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/product/202002/28/202002281515466463.jpg",
+                    "path": "images/202002281515466463.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/product/202002/28/202002281633115841.jpg",
+                    "path": "images/202002281633115841.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/product/202002/28/202002281703347560.jpg",
+                    "path": "images/202002281703347560.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/product/202002/25/202002251546184859.jpg",
+                    "path": "images/202002251546184859.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/product/202002/25/202002251719306448.jpg",
+                    "path": "images/202002251719306448.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/product/202002/26/202002261659091267.jpg",
+                    "path": "images/202002261659091267.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/product/202002/26/202002261710133924.jpg",
+                    "path": "images/202002261710133924.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/product/202002/27/202002270909224608.jpg",
+                    "path": "images/202002270909224608.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/product/202002/27/202002271020593951.jpg",
+                    "path": "images/202002271020593951.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/img/tp-31.png",
+                    "path": "images/tp-31.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/img/tp-22.jpg",
+                    "path": "images/tp-22.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/site/201804/22/201804221729569213.png",
+                    "path": "images/201804221729569213.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/site/201804/22/201804221730139996.png",
+                    "path": "images/201804221730139996.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/site/201804/22/201804221730303434.png",
+                    "path": "images/201804221730303434.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/site/202002/27/202002271206318328.png",
+                    "path": "images/202002271206318328.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/site/201804/22/201804221730466248.png",
+                    "path": "images/201804221730466248.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/site/201804/22/201804221730594999.png",
+                    "path": "images/201804221730594999.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/site/201804/22/201804221731319844.png",
+                    "path": "images/201804221731319844.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/upload/site/201804/22/201804221731378751.png",
+                    "path": "images/201804221731378751.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/img/foot-logo.png",
+                    "path": "images/foot-logo.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/img/ewm/NANOGRESS-FACEBOOK.png",
+                    "path": "images/NANOGRESS-FACEBOOK.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/img/ewm/NANOGRESS-WEIXIN.png",
+                    "path": "images/NANOGRESS-WEIXIN.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/img/ewm/NANOGRESS-YOUTUBE.png",
+                    "path": "images/NANOGRESS-YOUTUBE.png",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/js/prefixfree.min.js",
+                    "path": "js/prefixfree.min.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/js/html5shiv.js",
+                    "path": "js/html5shiv.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/js/selectivizr-min.js",
+                    "path": "js/selectivizr-min.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/js/jquery-1.11.0.js",
+                    "path": "js/jquery-1.11.0.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/js/common.js",
+                    "path": "js/common.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/js/bootstrap.min.js",
+                    "path": "js/bootstrap.min.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/js/jquery.easing.min.js",
+                    "path": "js/jquery.easing.min.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/js/swiper-3.4.2.jquery.min.js",
+                    "path": "js/swiper-3.4.2.jquery.min.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/js/jquery.waypoints.js",
+                    "path": "js/jquery.waypoints.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/js/swiper.animate1.0.3.min.js",
+                    "path": "js/swiper.animate1.0.3.min.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/js/roll.js",
+                    "path": "js/roll.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/js/lib.js",
+                    "path": "js/lib.js",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/css/bootstrap.min.css",
+                    "path": "css/bootstrap.min.css",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/css/font-awesome.min.css",
+                    "path": "css/font-awesome.min.css",
+                    "children": [
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/fonts/fontawesome-webfont.eot?v=4.6.3",
+                            "path": "fonts/fontawesome-webfont_1.eot",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/fonts/fontawesome-webfont.eot?#iefix&v=4.6.3",
+                            "path": "fonts/fontawesome-webfont.eot",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/fonts/fontawesome-webfont.woff2?v=4.6.3",
+                            "path": "fonts/fontawesome-webfont.woff2",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/fonts/fontawesome-webfont.woff?v=4.6.3",
+                            "path": "fonts/fontawesome-webfont.woff",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/fonts/fontawesome-webfont.ttf?v=4.6.3",
+                            "path": "fonts/fontawesome-webfont.ttf",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular",
+                            "path": "etc/fontawesome-webfont.svgz",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/css/swiper-3.4.2.min.css",
+                    "path": "css/swiper-3.4.2.min.css",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/css/animate.min.css",
+                    "path": "css/animate.min.css",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/css/roll.css",
+                    "path": "css/roll.css",
+                    "children": []
+                },
+                {
+                    "url": "http://www.nanogress.com/templates/nl/css/lib.css",
+                    "path": "css/lib.css",
+                    "children": [
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/fonts/SourceHanSansCN-Regular.otf",
+                            "path": "fonts/SourceHanSansCN-Regular.otf",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/fonts/Helvetica%20Neue%20CE%2035%20Thin.ttf",
+                            "path": "fonts/Helvetica Neue CE 35 Thin.ttf",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/fonts/Helvetica%20Neue%20CE%2055%20Roman.ttf",
+                            "path": "fonts/Helvetica Neue CE 55 Roman.ttf",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/img/icon/icon1.png",
+                            "path": "images/icon1.png",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/img/icon/icon2.png",
+                            "path": "images/icon2.png",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/img/tp-7.jpg",
+                            "path": "images/tp-7.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/img/tp-52.jpg",
+                            "path": "images/tp-52.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/img/icon/icon3.png",
+                            "path": "images/icon3.png",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/img/icon/icon4.png",
+                            "path": "images/icon4.png",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/img/icon/icon5.png",
+                            "path": "images/icon5.png",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.nanogress.com/templates/nl/img/icon/icon6.png",
+                            "path": "images/icon6.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.nanogress.com/favicon.ico",
+                    "path": "favicon.ico",
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "failures": []
+}

@@ -1,0 +1,30 @@
+/*滚动浮现*/
+.roll{
+	opacity: 0;
+	
+	transform: translateY(50px);
+	
+	transition: all 1s ease;
+}
+.roll-active{
+	opacity: 1;
+	
+	transform: translateY(0px);
+	
+	transition: all 1s ease;
+}
+
+.roll-delay-1_0_0{
+    transition-delay: 1s;
+}
+.roll-delay-0_7_5{
+    transition-delay: 0.75s;
+}
+.roll-delay-0_5_0{
+    transition-delay: 0.5s;
+}
+.roll-delay-0_2_5{
+    transition-delay: 0.25s;
+}
+
+/*滚动浮现*/
